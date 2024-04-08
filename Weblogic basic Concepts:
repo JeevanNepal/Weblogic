@@ -1,0 +1,3 @@
+WHats is weblogic?
+WebLogic is an Application Server that runs on a middle tier, between back-end databases and related applications and browser-based thin clients. 
+WebLogic Server mediates the exchange of requests from the client tier with responses from the back-end tier.
